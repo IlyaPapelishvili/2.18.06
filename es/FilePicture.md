@@ -3,7 +3,7 @@
 First Header  | Seconфацd Header
 ------------- | -------------
 Content Cell  | Content Cell
-Content Cell  | Content Cell
+Content Cell  | Contsdent Cesdgsgll
 
 
 | First Header  | Second Header |
@@ -15,7 +15,7 @@ Content Cell  | Content Cell
 
 | Left-Aligned  | Ceфцаnter Aligned  | Right Aligned |
 |:------------- |:---------------:| -------------:|
-| col 3 is      | some wordy text |     **$1600** |
+| col 3 is      | some wordy text |     **$16sdg00** |
 | col 2 is      | centered        |         $12   |
 | zebra stripes | are neat        |        ~~$1~~ |
 
